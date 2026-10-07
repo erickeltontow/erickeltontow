@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/erickeltontow/erickeltontow/blob/main/images/banner.jpg" align="right" width="38%">
+<img src="https://github.com/erickeltontow/erickeltontow/blob/main/images/banner.jpg" align="right" width="40%">
 
 $${\color{green}\begin{array}{c}
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ \\
