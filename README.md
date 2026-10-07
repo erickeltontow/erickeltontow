@@ -14,4 +14,4 @@
     🎵 Artista Favorito • The Marias
 </pre>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickeltontow&show_icons=true&theme=chartreuse-dark&hide=stars,prs)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickeltontow&show_icons=true&theme=chartreuse-dark&hide=stars,prs) -->
