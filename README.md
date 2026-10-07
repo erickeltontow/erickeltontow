@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/erickeltontow/erickeltontow/blob/main/images/banner.jpg" align="right" width="40%">
+<img src="https://github.com/erickeltontow/erickeltontow/blob/main/images/banner.jpg" align="right" width="45%">
 
 <kbd> <img src="https://files.catbox.moe/9i1c93.gif" width="100%"> </kbd>
 
