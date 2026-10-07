@@ -18,7 +18,7 @@ $${\color{green}\begin{array}{c}
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=31D41D&center=true&vCenter=true&width=435&lines=Amo+a+los+aliens+y+los+gatos.;Estoy+bien+pelmazo.;Erick+el+tonto+we.)](https://git.io/typing-svg)
 
 <pre>
-    💼 Status • Desempleado Profesional
+    💼 Status • Desempleado
     💻 Programador Aspirante • Aprendiendo Backend
     📖 Estudiando • Game Dev
     🎮 Musica • Juegos • Codigo
