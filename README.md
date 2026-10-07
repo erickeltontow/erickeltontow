@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(min-width: 768px)" srcset="https://github.com/erickeltontow/erickeltontow/blob/main/images/banner.jpg">
+  <source media="(min-width: 1134px)" srcset="https://github.com/erickeltontow/erickeltontow/blob/main/images/banner.jpg">
   <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" align="right" width="45%">
 </picture>
 
